@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EchoServer", "EchoServer\EchoServer.csproj", "{CB789F7B-974C-4229-B57A-15E73F656CAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB789F7B-974C-4229-B57A-15E73F656CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB789F7B-974C-4229-B57A-15E73F656CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB789F7B-974C-4229-B57A-15E73F656CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB789F7B-974C-4229-B57A-15E73F656CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

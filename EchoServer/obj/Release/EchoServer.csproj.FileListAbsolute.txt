@@ -1,0 +1,13 @@
+C:\Users\MrT\documents\visual studio 2012\Projects\EchoServer\EchoServer\bin\Release\EchoServer.exe.config
+C:\Users\MrT\documents\visual studio 2012\Projects\EchoServer\EchoServer\bin\Release\EchoServer.exe.manifest
+C:\Users\MrT\documents\visual studio 2012\Projects\EchoServer\EchoServer\bin\Release\EchoServer.application
+C:\Users\MrT\documents\visual studio 2012\Projects\EchoServer\EchoServer\bin\Release\EchoServer.exe
+C:\Users\MrT\documents\visual studio 2012\Projects\EchoServer\EchoServer\bin\Release\EchoServer.pdb
+C:\Users\MrT\documents\visual studio 2012\Projects\EchoServer\EchoServer\obj\Release\EchoServer.ClientForm.resources
+C:\Users\MrT\documents\visual studio 2012\Projects\EchoServer\EchoServer\obj\Release\EchoServer.ServerForm.resources
+C:\Users\MrT\documents\visual studio 2012\Projects\EchoServer\EchoServer\obj\Release\EchoServer.Properties.Resources.resources
+C:\Users\MrT\documents\visual studio 2012\Projects\EchoServer\EchoServer\obj\Release\EchoServer.csproj.GenerateResource.Cache
+C:\Users\MrT\documents\visual studio 2012\Projects\EchoServer\EchoServer\obj\Release\EchoServer.exe.manifest
+C:\Users\MrT\documents\visual studio 2012\Projects\EchoServer\EchoServer\obj\Release\EchoServer.application
+C:\Users\MrT\documents\visual studio 2012\Projects\EchoServer\EchoServer\obj\Release\EchoServer.exe
+C:\Users\MrT\documents\visual studio 2012\Projects\EchoServer\EchoServer\obj\Release\EchoServer.pdb

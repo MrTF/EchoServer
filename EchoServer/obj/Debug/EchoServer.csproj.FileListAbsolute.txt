@@ -1,0 +1,10 @@
+c:\users\mrt\documents\visual studio 2012\Projects\EchoServer\EchoServer\bin\Debug\EchoServer.exe.config
+c:\users\mrt\documents\visual studio 2012\Projects\EchoServer\EchoServer\bin\Debug\EchoServer.exe
+c:\users\mrt\documents\visual studio 2012\Projects\EchoServer\EchoServer\bin\Debug\EchoServer.pdb
+c:\users\mrt\documents\visual studio 2012\Projects\EchoServer\EchoServer\obj\Debug\EchoServer.csprojResolveAssemblyReference.cache
+c:\users\mrt\documents\visual studio 2012\Projects\EchoServer\EchoServer\obj\Debug\EchoServer.ClientForm.resources
+c:\users\mrt\documents\visual studio 2012\Projects\EchoServer\EchoServer\obj\Debug\EchoServer.Properties.Resources.resources
+c:\users\mrt\documents\visual studio 2012\Projects\EchoServer\EchoServer\obj\Debug\EchoServer.csproj.GenerateResource.Cache
+c:\users\mrt\documents\visual studio 2012\Projects\EchoServer\EchoServer\obj\Debug\EchoServer.exe
+c:\users\mrt\documents\visual studio 2012\Projects\EchoServer\EchoServer\obj\Debug\EchoServer.pdb
+c:\users\mrt\documents\visual studio 2012\Projects\EchoServer\EchoServer\obj\Debug\EchoServer.ServerForm.resources
